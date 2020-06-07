@@ -6,13 +6,16 @@ import SEO from "../components/seo"
 
 const IndexPage = () => (
   <Layout pageInfo={{ pageName: "index" }}>
-    <SEO title="Home" keywords={[`gatsby`, `react`, `bootstrap`]} />
+    <SEO title="Home" keywords={[`therapy`, `anger management`, `court evaluation`, `brief therapy`]} />
     <Container className="text-center">
       <Row>
         <Col>
+        <h2>Jennifer Marco, MSW, LCSW</h2>
           <p>
-            This is a Gatsby Starter that I frequently use to get jump started
-            on quick website builds. It includes the following packages:
+Jennifer is a Master's level Licensed Clinical Social Worker with training as a psychotherapist. She specializes in individual and marriage/relationship counseling as well as anger management. Jennifer has over twenty years in the field with a background in community mental heath and private practice. Her private practice serves adolescents, adults, families and the geriatric population.
+          </p>
+          <p>
+She has spoken on anxiety disorders, depression and anger management for the Shore Memorial Hospital Wellness Center, Shore Memorial's Annual Women's Conference, as well as several other business and community events in Atlantic County. She also runs a monthly anger management workshop.
           </p>
         </Col>
       </Row>
