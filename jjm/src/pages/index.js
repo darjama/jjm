@@ -32,10 +32,10 @@ She has spoken on anxiety disorders, depression and anger management for the Sho
           <h3>Education</h3>
           <ListGroup>
             <ListGroup.Item>
-            Undergraduate degree from Montclair State University Majored in English with a minor in Psychology
+              Masters Degree in Social Work from University of Pennsylvania
             </ListGroup.Item>
             <ListGroup.Item>
-              Masters Degree in Social Work from University of Pennsylvania
+            Undergraduate degree from Montclair State University Majored in English with a minor in Psychology
             </ListGroup.Item>
           </ListGroup>
         </Col>
