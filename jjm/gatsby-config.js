@@ -1,7 +1,7 @@
 module.exports = {
   pathPrefix: "/jjm",
   siteMetadata: {
-    title: `Therapist Jennifer Marco`,
+    title: `Jennifer Marco: Therapist`,
     description: `Therapy, Anger Management & Court and Legal Evauations`,
     author: `Jennifer Marco`,
   },
@@ -23,8 +23,8 @@ module.exports = {
         name: `gatsby-starter-react-bootstrap`,
         short_name: `react-bootstrap`,
         start_url: `http://jennifermarco.com/`,
-        background_color: `#20232a`,
-        theme_color: `#F29E4C`,
+        background_color: `#ff8f40`,
+        theme_color: `#ff8f40`,
         display: `minimal-ui`,
       },
     },
